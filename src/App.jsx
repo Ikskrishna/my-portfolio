@@ -1,7 +1,6 @@
-import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from '../src/pages/Home';
-import CV from './components/cv';
+import CV from '../src/components/CV'
 import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './pages/About';

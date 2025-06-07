@@ -1,4 +1,3 @@
-import React from "react";
 import resume from "../assets/resume.pdf"; // Step 1: Import the PDF
 
 function CV() {
